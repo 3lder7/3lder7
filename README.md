@@ -7,7 +7,6 @@
   <img height="160Em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=3lder7&layout=compact&langs_count=16&theme=tokyonight"/>
   
 </div>
-  
 
 <div align="center">
 
