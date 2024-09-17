@@ -1,7 +1,9 @@
-
+<p align="center">
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Elder+Galvão!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">   
+  </a>
+</p>
 <div align="center">
-  
-  ### Hi! I'm Elder Galvão👋
   
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=3lder7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160Em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=3lder7&layout=compact&langs_count=16&theme=dark"/>
