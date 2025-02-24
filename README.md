@@ -30,9 +30,7 @@
 <img align="center" alt="Figma" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg">
 <img align="center" alt="Notion" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Notion-Dark.svg">
 <img align="center" alt="Windows" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg">
-<br>
-<br>
-<img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white.svg"/>
+<!--<img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white.svg"/>-->
 </div>
 
 
