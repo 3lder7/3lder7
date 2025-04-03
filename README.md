@@ -1,5 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=3000&color=ffffff&random=false&width=435&height=40&lines=Hi!+👋+I'm+Elder+Galvão!" alt="Typing SVG">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3lder7&color=blue" alt="Profile views" /> </p>
+
+[![University](https://img.shields.io/badge/UCSAL-Systems%20Analysis%20%26%20Development-blueviolet)](https://www.ucsal.br/)
+
 <hr>
 
 - 🔥 Aspiring Back-End Developer;
