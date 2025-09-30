@@ -6,7 +6,7 @@
 
 <hr>
 
-- 🔥 Aspiring Back-End Developer;
+- 🔥 Aspiring Full-Stack Developer;
 - 🔭 Intern Developer at [FIEB](https://www.linkedin.com/company/sistemafieb/posts/?feedView=all) 
 - 🦾 Learning and growing every day!
 - 🏗️ Contributing to back-end systems and database management.
