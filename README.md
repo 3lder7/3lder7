@@ -1,16 +1,25 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=3000&color=ffffff&random=false&width=435&height=40&lines=Hi!+👋+I'm+Elder+Galvão!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=3000&color=ffffff&random=false&width=435&height=40&lines=Hey!+👋+I'm+Elder+Galvão!)
 
 [![University](https://img.shields.io/badge/SENAI-Graduated%20Systems%20Development%20%26%20Technician-blue)](https://www.ucsal.br/)
 [![University](https://img.shields.io/badge/UCSAL-Studying%20Systems%20Analysis%20%26%20Development-blueviolet)](https://www.ucsal.br/)
 
 
-<hr>
+<table>
+  <tr>
+    <td>
 
-- 🔥 Aspiring Full-Stack Developer;
-- 🔭 Intern Developer at [FIEB](https://www.linkedin.com/company/sistemafieb/posts/?feedView=all) 
-- 🦾 Learning and growing every day!
+- 🔥 Aspiring Full-Stack Developer;  
+- 🔭 Intern Developer at [FIEB](https://www.linkedin.com/company/sistemafieb/posts/?feedView=all)  
+- 🦾 Learning and growing every day!  
 - 🏗️ Contributing to back-end systems and database management.
-<hr>
+
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3lder7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" />
+    </td>
+  </tr>
+</table>
+
 
 ### Contact
 <p align="left">
