@@ -15,7 +15,7 @@
 
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3lder7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" />
+<img width="300" height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=3lder7&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="object-fit: cover;"/>
     </td>
   </tr>
 </table>
