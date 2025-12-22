@@ -9,9 +9,9 @@
     <td>
 
 - 🔥 Aspiring Full-Stack Developer;  
-- 🔭 Intern Developer at [FIEB](https://www.linkedin.com/company/sistemafieb/posts/?feedView=all)  
+- 🎯 Seeking opportunities as an Intern or Junior Developer to continue evolving professionally; 
 - 🦾 Learning and growing every day!  
-- 🏗️ Contributing to back-end systems and database management.
+- 🏗️ Passionate about technology, problem-solving, and building scalable solutions.
 
     </td>
     <td>
