@@ -9,7 +9,7 @@
     <td>
 
 - 🔥 Aspirante a Desenvolvedor Full-Stack;  
-- 🎯 Buscando oportunidades como estagiário ou desenvolvedor Júnior para continuar evoluindo profissionalmente; 
+- 🎯 Buscando oportunidades como estagiário ou desenvolvedor Júnior; 
 - 🦾 Aprendendo e evoluindo a cada dia!  
 - 🏗️ Apaixonado por tecnologia, resolução de problemas e construção de soluções escaláveis.
 
