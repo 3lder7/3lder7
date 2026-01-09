@@ -1,17 +1,17 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=3000&color=59cb5f&center=false&vCenter=true&repeat=false&width=435&height=40&lines=Saudações!+Sou+Elder+Galvão👋)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=3000&color=59cb5f&center=false&vCenter=true&repeat=false&width=435&height=40&lines=Hey!+I'm+Elder+Galvão👋)
 
-[![University](https://img.shields.io/badge/SENAI-Formado%20como%20Técnico%20em%20Desenvolvimento%20de%20Sistemas-blue)](https://www.ucsal.br/)
-[![University](https://img.shields.io/badge/UCSAL-Cursando%20Tecnólogo%20em%20Análise%20e%20Desenvolvimento%20de%20Sistemas-blueviolet)](https://www.ucsal.br/)
+[![University](https://img.shields.io/badge/SENAI-Graduated%20as%20a%20Systems%20Development%20Technician-blue)](https://www.ucsal.br/)
+[![University](https://img.shields.io/badge/UCSAL-Studying%20Systems%20Analysis%20and%20Developtment%20-blueviolet)](https://www.ucsal.br/)
 
 
 <table>
   <tr>
     <td>
 
-- 🔥 Aspirante a Desenvolvedor Full-Stack;  
-- 🎯 Buscando oportunidades como estagiário ou desenvolvedor Júnior; 
-- 🦾 Aprendendo e evoluindo a cada dia!  
-- 🏗️ Apaixonado por tecnologia, resolução de problemas e construção de soluções escaláveis.
+- 🔥 Aspiring Full-Stack Developer;  
+- 🎯 Seeking opportunities as an Intern or Junior Developer;  
+- 🦾 Learning and growing every day!  
+- 🏗️ Passionate about technology, problem-solving, and building scalable solutions.
 
     </td>
     <td>
@@ -22,7 +22,7 @@
 </table>
 
 
-### Contato
+### Contact
 <p align="left">
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/elder-galv%C3%A3o/)
