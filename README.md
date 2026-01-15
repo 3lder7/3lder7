@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=3000&color=59cb5f&center=false&vCenter=true&repeat=false&width=435&height=40&lines=Hey!+I'm+Elder+Galvão👋)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=3000&color=898989&center=false&vCenter=true&repeat=false&width=435&height=40&lines=Hey!+I'm+Elder+Galvão👋)
 
 [![University](https://img.shields.io/badge/SENAI-Graduated%20as%20a%20Systems%20Development%20Technician-blue)](https://www.ucsal.br/)
 [![University](https://img.shields.io/badge/UCSAL-Studying%20Systems%20Analysis%20and%20Developtment%20-blueviolet)](https://www.ucsal.br/)
