@@ -9,9 +9,9 @@
     <td>
 
 - 🔥 Aspiring Full-Stack Developer;  
-- 🎯 Seeking opportunities as an Intern or Junior Developer;  
+- 🔭 Intern Developer at [Starian](https://starian.com.br/)
 - 🦾 Learning and growing every day!  
-- 🏗️ Passionate about technology, problem-solving, and building scalable solutions.
+- 🏗️ Working on projects and systems integrations.
 
     </td>
     <td>
